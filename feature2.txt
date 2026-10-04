@@ -1,2 +1,2 @@
-
-this is feature2
+This is a feature2
+Feature2 is good
